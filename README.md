@@ -8,7 +8,7 @@
 
 ## 1.1 Architecture
 
-<img src="images/u-net-architecture.png"/>
+<img src="UNet/images/u-net-architecture.png"/>
 
 <h3>UNet Architecture has 3 parts:</h3>
 <ol>

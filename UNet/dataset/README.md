@@ -9,6 +9,6 @@ Obtain the images of Brain MRI slices across different planes and corresponding 
 2. Use 'mat2png.ipynb' to generate the image of brain MRI slices and corresponding binary masks for those images, in (.png) format.
 3. Store the files such that, the directory tree is as follows:
 
-# /dataset/brainTumorData/1/images/1.png - image for 1.mat
-# /dataset/brainTumorData/1/masks/1.png - mask for 1.mat
+### /dataset/brainTumorData/1/images/1.png - image for 1.mat
+### /dataset/brainTumorData/1/masks/1.png - mask for 1.mat
 
