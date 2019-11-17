@@ -1,7 +1,5 @@
 # Brain Tumor Semantic Segmentation using UNet architecture
 
-Archive Link: <a href="https://arxiv.org/abs/1505.04597">U-Net: Convolutional Networks for Biomedical Image Segmentation</a>
-
 <ul>
 <li>UNet is a fully convolutional network(FCN) that does image segmentation. Its goal is to predict each pixel's class.</li>
  
@@ -46,3 +44,10 @@ At the final layer a 1x1 convolution is used to map each feature vector to the d
 ## 1.3 Dataset
 Link: <a href="https://figshare.com/articles/brain_tumor_dataset/1512427/5">Brain Tumor Dataset</a>
 Obtain the images of Brain MRI slices across different planes and corresponding binary masks to identify region in the slice signifying presence of tumor.
+
+## 1.4 References and Credits
+Source Code: <a href="https://github.com/nikhilroxtomar/UNet-Segmentation-in-Keras-TensorFlow">UNet-Segmentation-in-Keras-TensorFlow</a>
+
+Archive Link: <a href="https://arxiv.org/abs/1505.04597">U-Net: Convolutional Networks for Biomedical Image Segmentation</a>
+
+YouTube Video Explaination: <a href="https://youtu.be/M3EZS__Z_XE">Youtube: UNet-Segmentation-in-Keras-TensorFlow</a>
